@@ -1,0 +1,114 @@
+{
+    "header": {
+        "user": "njits",
+        "passwd": "6612892979684df9f317d74a93b9686f",
+        "command": "track",
+        "IMEI": "0867000000223370"
+    },
+    "body": {
+        "content": [{
+                "latitude": "118.726415",
+                "longitude": "32.048793",
+                "speed": "90",
+                "altitude": "1000",
+                "direction_angle": "20",
+                "stamp": "2018-01-01  12:00:00"
+            },
+            {
+                "latitude": "118.726415",
+                "longitude": "32.048793",
+                "speed": "90",
+                "altitude": "1000",
+                "direction_angle": "20",
+                "stamp": "2018-01-01  12:00:00"
+            },
+            {
+                "latitude": "118.726415",
+                "longitude": "32.048793",
+                "speed": "90",
+                "altitude": "1000",
+                "direction_angle": "20",
+                "stamp": "2018-01-01  12:00:00"
+            },
+            {
+                "latitude": "118.726415",
+                "longitude": "32.048793",
+                "speed": "90",
+                "altitude": "1000",
+                "direction_angle": "20",
+                "stamp": "2018-01-01  12:00:00"
+            },
+            {
+                "latitude": "118.726415",
+                "longitude": "32.048793",
+                "speed": "90",
+                "altitude": "1000",
+                "direction_angle": "20",
+                "stamp": "2018-01-01  12:00:00"
+            },
+            {
+                "latitude": "118.726415",
+                "longitude": "32.048793",
+                "speed": "90",
+                "altitude": "1000",
+                "direction_angle": "20",
+                "stamp": "2018-01-01  12:00:00"
+            },
+            {
+                "latitude": "118.726415",
+                "longitude": "32.048793",
+                "speed": "90",
+                "altitude": "1000",
+                "direction_angle": "20",
+                "stamp": "2018-01-01  12:00:00"
+            },
+            {
+                "latitude": "118.726415",
+                "longitude": "32.048793",
+                "speed": "90",
+                "altitude": "1000",
+                "direction_angle": "20",
+                "stamp": "2018-01-01  12:00:00"
+            },
+            {
+                "latitude": "118.726415",
+                "longitude": "32.048793",
+                "speed": "90",
+                "altitude": "1000",
+                "direction_angle": "20",
+                "stamp": "2018-01-01  12:00:00"
+            },
+            {
+                "latitude": "118.726415",
+                "longitude": "32.048793",
+                "speed": "90",
+                "altitude": "1000",
+                "direction_angle": "20",
+                "stamp": "2018-01-01  12:00:00"
+            }
+        ]
+    }
+}
+
+
+{
+    "header": {
+        "user": "njits",
+        "passwd": "6612892979684df9f317d74a93b9686f",
+        "command": "get_notify",
+        "IMEI": "0867000000223370"
+    },
+    "body": {
+        "local": "yes",
+        "longitude": "114.12345",
+        "latitude": "22.12345",
+        "speed": "65",
+        "altitude": "1000",
+        "direction_angle": "354",
+        "stamp": "2014-11-21 16:22:02",
+        "record": "http://gsm.wanmagps.com/test.mp4",
+        "get_time": "2014-11-21 17:22:02",
+        "notify_type": "shaking"
+    }
+}
+

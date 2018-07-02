@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="gb2312"?>
+<AgentOptions>
+        <ServingIP>127.0.0.1</ServingIP>
+        <ServingPort>8850</ServingPort>
+        <DBPara>
+                <DBused>1</DBused>
+                <User>shaow</User>
+                <Passwd>123456</Passwd>
+                <SID>test</SID>
+        </DBPara>
+        <kafkaPara>
+            <kafkaused>0</kafkaused>
+            <kafkaServer>192.168.47.128:9092</kafkaServer>
+            <topic1>com.itsp.taxi.sourcedata</topic1>
+        </kafkaPara>
+        <httpServerPar>
+            <port1>12100</port1>
+            <port2>12101</port2>
+            <threadnum>5</threadnum>
+        </httpServerPar>
+        <udpServerPar>
+            <port1>12201</port1>
+            <port2>12202</port2>
+            <threadnum>5</threadnum>
+        </udpServerPar>
+        <ProxyAddresses>
+            <ProxyAddress>njitshjdqwh</ProxyAddress>
+            <ProxyAddress>njitshjdqsj</ProxyAddress>
+        </ProxyAddresses>
+</AgentOptions>
